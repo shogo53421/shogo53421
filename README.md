@@ -3,5 +3,3 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="image/cplusplus.svg" alt="cplusplus" width="80" height="80" /> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="image/c.svg" alt="cplusplus" width="80" height="80"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="image/python.svg" alt="cplusplus" width="80" height="80"/> </a>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shogo53421&theme=gruvbox)
